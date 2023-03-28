@@ -258,8 +258,8 @@ namespace adventureGame
                     textLabel.Text = "You asked for cookie dough. Would you like chocolate chip or birthday cake?";
                     option1Button.Visible = true;
                     option2Button.Visible = true;
-                    option1Button.Text = "keep walking";
-                    option2Button.Text = "turn around";
+                    option1Button.Text = "chocolate chip";
+                    option2Button.Text = "birthday cake";
                     option3Button.Visible = false;
                     break;
                 case 13:
@@ -561,8 +561,8 @@ namespace adventureGame
                     textLabel.Text = "You asked for cookie dough. Would you like chocolate chip or birthday cake?";
                     option1Button.Visible = true;
                     option2Button.Visible = true;
-                    option1Button.Text = "keep walking";
-                    option2Button.Text = "turn around";
+                    option1Button.Text = "chocolate chip";
+                    option2Button.Text = "birthday cake";
                     option3Button.Visible = false;
                     break;
                 case 13:
@@ -818,8 +818,8 @@ namespace adventureGame
                     textLabel.Text = "You asked for cookie dough. Would you like chocolate chip or birthday cake?";
                     option1Button.Visible = true;
                     option2Button.Visible = true;
-                    option1Button.Text = "keep walking";
-                    option2Button.Text = "turn around";
+                    option1Button.Text = "chocolate chip";
+                    option2Button.Text = "birthday cake";
                     option3Button.Visible = false;
                     break;
                 case 13:
